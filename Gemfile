@@ -1,9 +1,9 @@
 source "http://rubygems.org"
 # Add dependencies required to use your gem here.
 # Example:
-gem "activesupport", "3.0.10"
-gem "i18n", "0.6.0"
-gem 'yajl-ruby', '0.8.2', :require => 'yajl'
+gem "activesupport"
+gem "i18n"
+gem 'yajl-ruby', :require => 'yajl'
 
 # Add dependencies to develop your gem here.
 # Include everything needed to run rake, tests, features, etc.
