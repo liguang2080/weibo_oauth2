@@ -1,7 +1,3 @@
-require "base64"
-require "yajl"
-require "openssl"
-
 class SaeOauth2
   attr_accessor :client_id, :client_secret, :access_token, :refresh_token
   attr_accessor :http_code, :url, :host, :timeout, :connect_timeout
