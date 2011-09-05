@@ -1,4 +1,3 @@
-require "active_support/core_ext"
 require "base64"
 require "yajl"
 require "openssl"
