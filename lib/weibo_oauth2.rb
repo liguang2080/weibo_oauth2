@@ -1,0 +1,1 @@
+require "weibo_oauth2/sae_oauth2"
